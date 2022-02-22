@@ -9,4 +9,5 @@ ibrahim-yavuz/ibrahim-yavuz is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-yavuz)](https://github.com/ibrahim-yavuz/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-yavuz)](https://github.com/ibrahim-yavuz/github-readme-stats)
+-->
